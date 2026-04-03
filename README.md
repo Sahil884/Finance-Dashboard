@@ -6,8 +6,8 @@ A modern, responsive finance dashboard built to visualize and manage financial d
 
 ## 🚀 Live Demo
 
-👉 _Add your deployed link here_
-👉 _Add GitHub repository link here_
+👉Deployed Link --> https://finance-dashboard-six-wine.vercel.app/
+👉 Github --> https://github.com/Sahil884/Finance-Dashboard
 
 ---
 
@@ -210,12 +210,6 @@ All financial data is managed through a centralized Zustand store, ensuring:
 
 ---
 
-## 📸 Screenshots
-
-👉 _Add screenshots here (light + dark mode recommended)_
-
----
-
 ## 🙌 Conclusion
 
 This project reflects my approach to:
@@ -224,15 +218,6 @@ This project reflects my approach to:
 - Designing clean and intuitive UIs
 - Managing application state effectively
 - Paying attention to detail and UX polish
-
----
-
-## 📬 Contact
-
-Feel free to reach out:
-
-- LinkedIn: _Add your link_
-- Email: _Add your email_
 
 ---
 

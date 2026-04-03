@@ -12,12 +12,29 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
+:root {
+  --card-background: #ffffff;
+  --card-foreground: #111827;
+  --panel-background: #f9fafb;
+  --accent: #000000;
+  --border-color: #5a5a66;
+}
+
+.dark {
+  --card-background: #44444e;
+  --card-foreground: #ffffff;
+  --panel-background: #44444e;
+  --background: #37353e;
+  --foreground: #d3dad9;
+  --accent: #715a5a;
+}
+
+/* @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
-}
+} */
 
 body {
   background: var(--background);
